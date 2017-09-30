@@ -6,5 +6,5 @@ let scoreElement = document.getElementById("score");
 
 spaghettiElement.addEventListener("click", function () {
     score++;
-    scoreElement.textContent = score + " spagetts";
+    scoreElement.textContent = score + " spaghetts";
 });

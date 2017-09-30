@@ -7,8 +7,6 @@ body {
 #spaghetti {
     width: 200px;
     height: 100px;
-    background-color: #DA1717;
     border-radius: 50%;
     background-image: url("download.jpg");
-
 }
